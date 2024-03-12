@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Drosc0
+- 👋 Hi, I’m Andrés.
 - 👀 I’m interested in programing and learning new interesting things.
 - 🌱 I’m currently learning Java, JavaScript and SQL.
 - 💞️ I’m looking to collaborate on interesting proyects.
