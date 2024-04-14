@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrés.
 - 👀 I’m interested in programing and learning new interesting things.
-- 🌱 I’m currently learning Java, JavaScript and SQL.
+- 🌱 I’m currently learning Java, JavaScript, SQL, XML, HTML and CSS.
 - 💞️ I’m looking to collaborate on interesting proyects.
 - 📫 How to reach me : using email.
 
